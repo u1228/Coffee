@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>551</width>
+    <width>550</width>
     <height>301</height>
    </rect>
   </property>
@@ -240,7 +240,7 @@
      <rect>
       <x>290</x>
       <y>10</y>
-      <width>201</width>
+      <width>181</width>
       <height>21</height>
      </rect>
     </property>
@@ -252,6 +252,25 @@
     </property>
     <property name="text">
      <string>Информация о кофе</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>10</y>
+      <width>21</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Century Gothic</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>🖉</string>
     </property>
    </widget>
   </widget>
